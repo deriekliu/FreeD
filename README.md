@@ -25,7 +25,7 @@ FreeDTV 免费无广告，也无任何收费会员制倾向，请不要相信任
 > 
 >搜索接口：
 >https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/searchUrl.json
->
+>https://cdn.jsdelivr.net/gh/deriekliu/freed@master/tv/
 >刷新接口：
 >https://purge.jsdelivr.net/gh/FreeDTV/FreeD/searchUrl.json
 >
